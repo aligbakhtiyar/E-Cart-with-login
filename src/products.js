@@ -10,8 +10,8 @@ import product8 from "./assets/products/8.webp";
 export const PRODUCTS = [
   {
     id: 1,
-    productName: "IPhone",
-    price: 999.0,
+    productName: "iPhone 14 Pro",
+    price: 140000,
     productImage: product1,
   },
   {
