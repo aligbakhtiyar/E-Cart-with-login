@@ -30,7 +30,7 @@ export const Navbar = () => {
                 logout({ logoutParams: { returnTo: window.location.origin } })
               }
             >
-              Log Out
+              Sign In
             </button>
           </li>
         )}
